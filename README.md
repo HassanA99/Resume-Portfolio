@@ -1,57 +1,30 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Hassan Jalloh - AI Engineer & Data Scientist
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+## 🚀 About Me
+I am Hassan Jalloh, a passionate Data Scientist and AI Engineer dedicated to solving real-world problems using AI, machine learning, and data science. I specialize in building AI-powered solutions for underrepresented languages, leveraging NLP, computer vision, and deep learning to foster digital inclusion and business innovation.
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
+## 🔥 Expertise
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- AI for Underrepresented Languages
+- Data Science & Big Data Analytics
+- Cloud Computing & MLOps
+- Conversational AI & Virtual Assistants
 
-## Resume Starter Pack Description
+## 🎯 Current Projects
+- **Fula TTS Model** - Developing a speech synthesis model for the Fula language.
+- **Multilingual AI Chatbot** - Building a conversational AI platform for indigenous languages.
+- **AI-Powered Data Visualization Dashboard** - Creating business intelligence tools for data-driven decision-making.
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+## 🌎 Connect With Me
+- 🌐 Portfolio: [Hassan Jalloh](https://hassanjalloh.my.canva.site/hassan-jalloh)
+- 📧 Email: diallodjiba119@gmail.com
+- 🐦 Twitter: [@HassanJallohAI](https://twitter.com/HassanJallohAI)
+- 💼 LinkedIn: [Hassan Jalloh](https://www.linkedin.com/in/hassan-jalloh)
+- 👨‍💻 GitHub: [HassanJalloh](https://github.com/HassanJalloh)
 
-## 1. Make sure you have NODE installed!
+## 🤝 Let's Collaborate!
+I am open to AI research collaborations, startup partnerships, and innovative data science projects. If you're looking for an AI expert to bring impactful solutions to life, let's connect!
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
+💡 **"Building AI for a more inclusive future!"** 🚀
 
-## 2. Clone the repo!
-
-Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
-
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
-
-## 3. Install Dependancies
-
-Next, you need to install all the dependancies using:
-
-`npm install`
-
-Once this is done, you can start the app with:
-
-`npm start`
-
-## 4. Fill in your personal info
-
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
-
-## 5. (OPTIONAL) Replacing images and/or fonts
-
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
-
-## 7. Finalising Resume
-
-Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
-
-## 8. Host Resume Online
-
-1. Open the build folder in the finder screen
-2. Go to <a href="https://www.netlify.com/">Netlify</a> and set up a profile
-3. Go to the 'Sites Tab'
-4. Simply Drag and drop the 'Build' Folder into the designated upload space
-5. The app will begin deploying & the deployment URL will be presented!
-
-🚀 BOOM, you are now LIVE!!!
-
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
